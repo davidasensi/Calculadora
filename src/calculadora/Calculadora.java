@@ -10,6 +10,7 @@ package calculadora;
  *
  * @author vesprada
  */
+ import java.util.Scanner;
 public class Calculadora {
 
     /**
@@ -19,7 +20,15 @@ public class Calculadora {
         // TODO code application logic here
     
         //YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEE
-        holakase
-    }
+        System.out.println("Calculadora Avanzada");
+        System.out.println("Selecciona la operacion a realizar");
+        System.out.println("1-Sumar");
+        System.out.println("2-Restar");
+        System.out.println("2-Restar");
+        System.out.println("2-Restar");
+        System.out.println("2-Restar");
+        System.out.println("2-Restar");
+        
+    }//fin main
     
-}
+}//fin clase
