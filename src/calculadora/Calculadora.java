@@ -47,15 +47,13 @@ public class Calculadora {
           System.out.println("El resultado de la resta es: "+c);
           break;
           case 3:
-           c=a*b;
+          c=a*b;
            System.out.println("El resultado de la multiplicacion es: "+c);
            break;
            case 4:
             c=a/b;
             System.out.println("El resultado de la multiplicacion es: "+c);
             break;
-            
-         
         }//fin switch
         
     }//fin main
